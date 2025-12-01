@@ -1,7 +1,35 @@
 # FieldForce360
 Application complète de gestion d’interventions terrain destinée aux techniciens, commerciaux itinérants et leurs managers.
 
+**Une seule app, un seul code source → iOS, Android, Windows et Mac**  
+L’outil parfait pour les entreprises qui envoient des techniciens, commerciaux, auditeurs ou livreurs sur le terrain et qui veulent arrêter de payer 3 apps différentes.
 
+### Le problème que résout FieldForce 360 (et que vivent 90 % des PME/ETI françaises)
+
+- Le technicien sur le chantier n’a pas de réseau → il note tout sur papier ou dans WhatsApp  
+- Le manager au bureau n’a aucune visibilité en temps réel  
+- L’entreprise a une app Android mal foutue + un logiciel Windows obsolète + rien sur iPhone  
+- Le client doit signer sur un bon papier → puis on ressaisit tout le soir  
+- Résultat : pertes de temps, erreurs, facturation en retard, clients mécontents
+
+### La solution FieldForce 360
+
+Une **seule application** qui fonctionne partout :
+- Sur le **téléphone ou la tablette** du technicien (iOS ou Android)  
+- Sur l’**ordinateur du manager** (Windows ou Mac)  
+- 100 % **hors-ligne** quand il n’y a pas de réseau  
+- Synchronisation automatique dès que la connexion revient  
+- Rapport d’intervention + signature client + photos → PDF envoyé en 3 secondes
+
+### Qui utilise déjà ce genre d’app au quotidien ?
+- Société de maintenance (climatisation, ascenseurs, alarmes)
+- Énergéticiens et réseaux (GRDF, Enedis, fibre optique)
+- SAV et dépannage toutes marques
+- Cabinets d’expertise et d’audit
+- Livraison du dernier kilomètre avec preuve de passage
+- Services à la personne (médico-social, aide à domicile)
+
+  
 ## Fonctionnalités principales
 
 | Fonctionnalité                                   | Mobile (iOS / Android)                  | Desktop (Windows / Mac)                  |
